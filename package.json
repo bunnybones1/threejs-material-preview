@@ -1,6 +1,6 @@
 {
   "name": "threejs-material-preview",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility to generate a grid or ring of balls from an array of materials. Good for material previews.",
   "main": "index.js",
   "license": "MIT",
