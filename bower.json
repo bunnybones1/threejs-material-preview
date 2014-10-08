@@ -1,0 +1,24 @@
+{
+  "name": "threejs-material-preview",
+  "main": "index.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/bunnybones1/threejs-material-preview",
+  "authors": [
+    "Tomasz Dysinski <oz@bunnybones.com>"
+  ],
+  "description": "An object to preview materials on a grid or ring of spheres.",
+  "keywords": [
+    "threejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "three.js": "*"
+  }
+}

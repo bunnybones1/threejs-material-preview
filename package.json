@@ -1,0 +1,38 @@
+{
+  "name": "threejs-material-preview",
+  "version": "1.0.0",
+  "description": "A utility to generate a grid or ring of balls from an array of materials. Good for material previews.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0",
+    "threejs-managed-view": "^1.0.0"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "material"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-material-preview.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-material-preview",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-material-preview/issues"
+  },
+  "readme": "# threejs-material-preview-carousel\r\n\r\n[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)\r\n\r\nA utility to generate a ring of balls from an array of materials. Good for material previews.\r\n\r\n## Usage\r\n\r\n[![NPM](https://nodei.co/npm/threejs-material-preview-carousel.png)](https://nodei.co/npm/threejs-material-preview-carousel/)\r\n\r\n## License\r\n\r\nMIT, see [LICENSE.md](http://github.com/bunnybones1/threejs-material-preview-carousel/blob/master/LICENSE.md) for details.\r\n",
+  "readmeFilename": "README.md",
+  "gitHead": "15d7ba552155f5b1eecceaabf27ccda0e6951b57",
+  "_id": "threejs-material-preview@1.0.0",
+  "_shasum": "034bf98181b07e24d5989f4b91c6fd7e0da5cce7",
+  "_from": "threejs-material-preview@"
+}
